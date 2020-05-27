@@ -7,6 +7,12 @@ import cv2 as cv
 import imutils
 import numpy as np
 
+# TODO: Abandoned project. The image somehow changes a lot without user, it is not possible to implement
+#  proper user choice.
+#  The game at this stage is a light proof of concept, and (was) a carcass for future implementations. The work
+#  is discuntinued, and this app is not usable unless you just want to play with it
+#  (it still works pretty fine with good lighting)
+
 
 class GestureRecognizer:
     """
